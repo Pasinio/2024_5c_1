@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161475848297",
+    "project_id": "strona-tako",
+    "storage_bucket": "strona-tako.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161475848297:android:b078487ce0286dd1ab5af8",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OH-7kGRZLe8eoCzuCIsTja2-1lKERtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
